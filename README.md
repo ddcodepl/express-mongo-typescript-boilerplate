@@ -4,6 +4,7 @@
 
 -   NodeJS
 -   MongoDB
+-   TypeScript
 
 ## How to run
 
